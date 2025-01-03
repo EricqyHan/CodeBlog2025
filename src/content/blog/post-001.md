@@ -1,8 +1,8 @@
 ---
 title: 'Penultimate Post For 2024'
 pubDate: 2024-12-30
-author: 'Me'
-image: 'image1.png'
+author: 'Eric'
+image: 'macDev.png'
 tags: ['tech']
 slug: Penultimate-Post-For-2024
 ---

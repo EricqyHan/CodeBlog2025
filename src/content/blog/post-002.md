@@ -1,9 +1,9 @@
 ---
 title: 'Last Post For 2024'
 pubDate: 2024-12-31
-author: 'Me'
+author: 'Eric'
 image: 'image1.png'
-tags: ['tech']
+tags: ['2025', 'tech']
 slug: Last-Post-For-2024
 ---
 

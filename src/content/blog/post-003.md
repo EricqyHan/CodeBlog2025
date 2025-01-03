@@ -1,13 +1,13 @@
 ---
-title: 'Elevate Your Mobile Experience with Samsung'
-pubDate: 2024-12-29
-author: 'Jane Smith'
-image: 'image4.png'
-tags: ['samsung', 'smartphones', 'gadgets']
-slug: elevate-your-mobile-experience-with-samsung
+title: 'First Post of 2025'
+pubDate: 2025-01-01
+author: 'Eric'
+image: 'esc.png'
+tags: ['ESC', '2025']
+slug: first-post-of-2025
 ---
 
-In the ever-evolving world of mobile technology, Samsung has consistently delivered cutting-edge devices that redefine the way we experience the digital world. If you're looking to elevate your mobile experience in 2024, here's why Samsung should be at the top of your list.
+This is my first post of 2025. A lot happened in 2024 and it really flew by. 
 
 ## **1. Innovative Display Technology**
 
