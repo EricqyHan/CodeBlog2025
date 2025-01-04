@@ -1,9 +1,13 @@
 // format the date to a string
 function formatDate(date: Date): string {
-    const options: Intl.DateTimeFormatOptions = {year: "numeric", month: "long", day: "numeric"}
-  
-    return new Date(date).toLocaleDateString(undefined, options);
-  }
+  const options: Intl.DateTimeFormatOptions = {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  };
+
+  return new Date(date).toLocaleDateString(undefined, options);
+}
 
 
   // Capitalize the first letter
