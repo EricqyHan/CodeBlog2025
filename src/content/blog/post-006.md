@@ -1,6 +1,6 @@
 ---
 title: 'First Mile of the Year'
-pubDate: 2025-01-0-4
+pubDate: 2025-01-04
 author: 'Me'
 image: 'image3.png'
 tags: ['Run']
