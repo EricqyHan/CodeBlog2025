@@ -1,6 +1,6 @@
 ---
 title: 'Guardian of the Digital Realm: Web Security'
-pubDate: 2024-01-19
+pubDate: 2025-01-07
 author: 'John Doe'
 image: 'image2.png'
 tags: ['code', 'security', 'tech']
