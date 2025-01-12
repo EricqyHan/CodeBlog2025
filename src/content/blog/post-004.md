@@ -3,7 +3,7 @@ title: 'Second Post of 2025'
 pubDate: 2025-01-02
 author: 'Eric'
 image: 'astro.png'
-tags: ['Gaming']
+tags: ['gaming']
 slug: second-post-of-2025
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'MMA Sparring'
-pubDate: 2025-01-10
+pubDate: 2025-01-08
 author: 'Me'
 image: 'image2.png'
 tags: ['iphone', 'MMA']

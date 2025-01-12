@@ -3,7 +3,7 @@ title: '8 Mile Run'
 pubDate: 2025-01-05
 author: 'Me'
 image: 'image3.png'
-tags: ['Run', 'iPhone']
+tags: ['run', 'iphone']
 slug: run
 ---
 

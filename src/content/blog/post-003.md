@@ -3,7 +3,7 @@ title: 'First Post of 2025 - Every Second Counts'
 pubDate: 2025-01-01
 author: 'Eric'
 image: 'esc.png'
-tags: ['ESC', '2025']
+tags: ['every_second_counts', '2025']
 slug: first-post-of-2025
 ---
 

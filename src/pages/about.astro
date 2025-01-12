@@ -1,10 +1,9 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro"
 import {Image} from "astro:assets";
-import about from "../images/about.jpg"
-import team1 from "../images/team1.png"
-import team2 from "../images/team2.png"
-import team3 from "../images/team3.png"
+import me from "../images/me.png"
+import mac from "../images/mac.png"
+import iphone from "../images/iphone.png"
 import deskHaus from "../images/deskHaus.png"
 ---
 
@@ -14,18 +13,18 @@ import deskHaus from "../images/deskHaus.png"
 	
 			<div class="flex flex-col md:flex-row items-center justify-between gap-6">
 				<div class="w-full md:w-1/2 mb-8 md:mb-0">
-					<Image src={about} alt="Tech People Team" class="w-full h-auto rounded-lg shadow-lg"/>
+					<Image src={me} alt="Tech People Team" class="w-full h-auto rounded-lg shadow-lg"/>
 				</div>
 				<div class="w-full md:w-1/2">
 					<h2 class="text-3xl font-extrabold text-gray-900 mb-4">
 						Who We Are
 					</h2>
 					<p class="text-gray-700 leading-relaxed mb-6">
-						We are Tech People, a passionate team of tech enthusiasts dedicated to bringing you the latest news, articles, and tutorials on all things technology.
+						Creative, detail-oriented, software developer with over five years of professional work experience in various IT related roles with a deep interest for data analytics. Proven track record of creating and implementing successful front and back-end web applications, performing data analytics, solving problems, and providing IT solutions for optimal performance. Passionate about communicating complex technical concepts to non-technical users, ensuring their understanding, and maintaining peak system performance. Seeking a role where I can utilize my strengths, apply my technical knowledge, and thereby contribute to the success of the company.
 					</p>
-					<p class="text-gray-700 leading-relaxed mb-6">
+					<!-- <p class="text-gray-700 leading-relaxed mb-6">
 						Our mission is to empower and educate our readers, helping them stay up-to-date with the rapidly evolving world of technology. Whether you're a seasoned developer, a gadget enthusiast, or just curious about the latest tech trends, we've got you covered.
-					</p>
+					</p> -->
 				   
 				</div>
 			</div>
@@ -37,17 +36,17 @@ import deskHaus from "../images/deskHaus.png"
 			  </h2>
 			  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
 				<div class="bg-white shadow-lg rounded-lg overflow-hidden">
-					<Image src={team1} alt="Team Member 1" class="w-full h-auto"/>
+					<Image src={mac} alt="Team Member 1" class="w-full h-auto"/>
 					<div class="p-6">
-						<h3 class="text-xl font-semibold text-gray-900 mb-2">John Doe</h3>
-						<p class="text-gray-70">Founder & Editor-in-Chief</p>
+						<h3 class="text-xl font-semibold text-gray-900 mb-2">16 Inch M4 MacBook Pro</h3>
+						<p class="text-gray-70">My main laptop</p>
 					</div>
 				</div>
 				<div class="bg-white shadow-lg rounded-lg overflow-hidden">
-					<Image src={team2} alt="Team Member 2" class="w-full h-auto"/>
+					<Image src={iphone} alt="Team Member 2" class="w-full h-auto"/>
 					<div class="p-6">
-						<h3 class="text-xl font-semibold text-gray-900 mb-2">Paul Newman</h3>
-						<p class="text-gray-70">Lead Writer</p>
+						<h3 class="text-xl font-semibold text-gray-900 mb-2">iPhone 16 Pro</h3>
+						<p class="text-gray-70">My Camera/phone</p>
 					</div>
 				</div>
 				<div class="bg-white shadow-lg rounded-lg overflow-hidden">
