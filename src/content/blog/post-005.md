@@ -3,7 +3,7 @@ title: 'First Friday of the Year'
 pubDate: 2025-01-03
 author: 'Sarah Davis'
 image: 'astro.png'
-tags: ['drones', 'tech', 'gadgets']
+tags: ['friday', 'code']
 slug: soaring-to-new-heights-the-world-of-drones
 ---
 

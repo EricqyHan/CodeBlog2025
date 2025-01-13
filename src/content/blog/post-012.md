@@ -3,7 +3,7 @@ title: 'Goals for 2025'
 pubDate: 2025-01-10
 author: 'Me'
 image: 'code2025.png'
-tags: ['coding']
+tags: ['goals']
 slug: goals
 ---
 
