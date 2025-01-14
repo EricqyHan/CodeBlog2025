@@ -1,10 +1,10 @@
 ---
-title: 'New Project'
-pubDate: 2025-01-09
-author: 'Me'
-image: 'image2.png'
-tags: ['coding']
-slug: mma-sparring
+title: 'More time in the day'
+pubDate: 2025-01-13
+author: 'Eric'
+image: 'astro.png'
+tags: ['time']
+slug: time
 ---
 
-I need to build a cool project to start my coding journey for this year. I also really just need to sit down
+We need more time in the day. 

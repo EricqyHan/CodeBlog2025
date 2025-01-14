@@ -7,4 +7,4 @@ tags: ['coding']
 slug: mma-sparring
 ---
 
-I need to build a cool project to start my coding journey for this year. I also really just need to sit down
+I need to build a cool project to start my coding journey for this year. I also really just need to sit down and code. 

@@ -1,9 +1,9 @@
 ---
 title: 'MMA Sparring'
 pubDate: 2025-01-08
-author: 'Me'
+author: 'Eric'
 image: 'image2.png'
-tags: ['iphone', 'MMA']
+tags: ['iphone', 'MMA', 'sparring']
 slug: mma-sparring
 ---
 
