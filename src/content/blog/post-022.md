@@ -7,4 +7,4 @@ tags: ['run']
 slug: run
 ---
 
-Did my four mile run in about 48 minutes on Friday morning. I could have definitely ran faster. I also went to MMA today and did another 2.5 mile run a few hours after. I have now signed up for a 10K in April, another Half-Marathon in May, the Half-Marathon in San Diego in June with Norbert, and hopefully NYC in November. 
+It's been a while since I updated this blog. I was running four miles before work last time back in the beginning of February. I'm at 9.5 miles now. I hope to do a 10 miler this weekend. I also need to get back into coding. It feels like forever since I made anything. 
